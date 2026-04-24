@@ -1,0 +1,13 @@
+{
+  "baseline": null,
+  "lambda_results": [
+    {
+      "lambda": 0.001,
+      "test_acc": 8.200000000000001,
+      "sparsity_pct": 0.0,
+      "total_params": 1805898,
+      "eff_params": 920019,
+      "infer_ms": 9.308497000000102
+    }
+  ]
+}
